@@ -1,5 +1,6 @@
 # Day 7: A Davinci Resolve Shortcut Keyboard
 
+![Running project](https://github.com/lesp/MakerAdvent2023/blob/main/Day%207%20-%20Shortcut%20Keyboard/day7.png?raw=true)
 
 I don't like spending lots of money, so when I wanted a shortcut keyboard for DaVinci Resolve, I made one!
 
